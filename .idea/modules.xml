@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collectors/Collectors.iml" filepath="$PROJECT_DIR$/Collectors/Collectors.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java8 Features.iml" filepath="$PROJECT_DIR$/Java8 Features.iml" />
       <module fileurl="file://$PROJECT_DIR$/LamdaExpression/LamdaExpression.iml" filepath="$PROJECT_DIR$/LamdaExpression/LamdaExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional Class/Optional Class.iml" filepath="$PROJECT_DIR$/Optional Class/Optional Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String Joiners/String Joiners.iml" filepath="$PROJECT_DIR$/String Joiners/String Joiners.iml" />
     </modules>
   </component>
 </project>
